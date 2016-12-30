@@ -23,7 +23,7 @@ DestinationZone = 'Untrust'		--Change Unstrust for your destination zone
 APIkey = '&key=XXXXXXXXXXX'		--Change XXXXXXXXXX for your API call
 
 Execution:
-#python3 RAA.py <Ip-address>
+# python3 RAA.py <Ip-address>
 
 Command output example:
 $ python3 RAA.py 172.16.1.101
